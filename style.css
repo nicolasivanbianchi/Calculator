@@ -3,6 +3,10 @@
     color: #F2DF3A;
 }
 
+html{
+    overflow-x: hidden;
+}
+
 body {
     margin: 0;
     display: flex;
